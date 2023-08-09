@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pling.com/img/00/00/56/26/59/1489816/8a5c88a3c6ccf69177593c0fe9a20a951df99b3fcb7e68260bfc4d6a948c75793d2e.png)
+[![MasterHead](https://storage.googleapis.com/pod_public/1300/167601.jpg)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Berkay+Durdu!;" />
